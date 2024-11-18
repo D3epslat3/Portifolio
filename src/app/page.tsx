@@ -1,23 +1,8 @@
-"use client";
-
-import { Input } from "@/components/ui/input";
 import Image from "next/image";
 import * as React from "react";
-import { useState } from "react";
 import Typewriter from "typewriter-effect";
 
 export default function Home() {
-
-  const [isSkillsOpen, setIsSkillsOpen] = useState(false);
-  const [isProjectsOpen, setIsProjectsOpen] = useState(false);
-
-  const handleSkillsClick = () => {
-    setIsSkillsOpen(!isSkillsOpen);
-  };
-
-  const handleProjectsClick = () => {
-    setIsProjectsOpen(!isProjectsOpen);
-  };
 
   return (
     <div className="bg-neutral-950 h-full w-full">

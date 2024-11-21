@@ -1,5 +1,7 @@
+'use client'
+
 import Image from "next/image";
-import * as React from "react";
+import React from "react";
 import Typewriter from "typewriter-effect";
 
 export default function Home() {

@@ -144,10 +144,10 @@ export default function Home() {
                 <div className="flex justify-center relative ">
                   <button 
                     onClick={() => window.location.href = 'https://rrpg.miguelm.dev'}
-                    aria-label="Assesar"
+                    aria-label="Acessar"
                     className="absolute top-[11px] mt-3 px-4 py-1 text-white font-bold text-lg rounded-full shadow-lg transition-transform transform bg-transparent border-2 border-white hover:scale-105 hover:border-indigo-600 hover:shadow-indigo-500/50 hover:shadow-2xl focus:outline-none"
                   >
-                    Assesar
+                    Acessar
                   </button>
                 </div>
 
@@ -171,10 +171,10 @@ export default function Home() {
                 <div className="flex justify-center relative ">
                   <button 
                     onClick={() => window.location.href = 'https://maze.miguelm.dev'}
-                    aria-label="Assesar"
+                    aria-label="Acessar"
                     className="absolute top-[35px] mt-3 px-4 py-1 text-white font-bold text-lg rounded-full shadow-lg transition-transform transform bg-transparent border-2 border-white hover:scale-105 hover:border-indigo-600 hover:shadow-indigo-500/50 hover:shadow-2xl focus:outline-none"
                   >
-                    Assesar
+                    Acessar
                   </button>
                 </div>
               </div>
@@ -197,10 +197,10 @@ export default function Home() {
                 <div className="flex justify-center relative ">
                   <button 
                     onClick={() => window.location.href = 'https://old.miguelm.dev'}
-                    aria-label="Assesar"
+                    aria-label="Acessar"
                     className="absolute top-[35px] mt-3 px-4 py-1 text-white font-bold text-lg rounded-full shadow-lg transition-transform transform bg-transparent border-2 border-white hover:scale-105 hover:border-indigo-600 hover:shadow-indigo-500/50 hover:shadow-2xl focus:outline-none"
                   >
-                    Assesar
+                    Acessar
                   </button>
                 </div>
               </div>
@@ -223,10 +223,10 @@ export default function Home() {
                 <div className="flex justify-center relative ">
                   <button 
                     onClick={() => window.location.href = 'https://github.com/D3epslat3/Target'}
-                    aria-label="Assesar"
+                    aria-label="Acessar"
                     className="absolute top-[35px] mt-3 px-4 py-1 text-white font-bold text-lg rounded-full shadow-lg transition-transform transform bg-transparent border-2 border-white hover:scale-105 hover:border-indigo-600 hover:shadow-indigo-500/50 hover:shadow-2xl focus:outline-none"
                   >
-                    Assesar Git
+                    Acessar Git
                   </button>
                 </div>
               </div>

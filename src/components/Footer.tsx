@@ -42,7 +42,7 @@ const Footer: FC = () => {
 
         {/* Seção Inferior: Direitos autorais */}
         <div className="mt-6 border-t border-gray-700 pt-4 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} Seu Nome. Todos os direitos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} Deepslate. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>

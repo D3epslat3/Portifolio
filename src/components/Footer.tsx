@@ -32,7 +32,7 @@ const Footer: FC = () => {
               <p className="text-green-400">miguel@admin: <span className="text-[#3d65a1]">~</span> <span className="text-white">$</span> <span className="text-neutral-100">Contatos</span></p>
               <p className="text-white"> Linkedin: <a href="https://www.linkedin.com/in/miguel-sousa-708b27333/" className="hover:underline hover:text-blue-200">Miguel Sousa</a> </p>
               <p className="text-white"> Discord: Deeplsat3 </p>
-              <p className="text-white"> Instagran: <a href="https://www.instagram.com/deepslat33/" className="hover:underline hover:text-blue-200">@deepslat33</a> </p>
+              <p className="text-white"> Instagram: <a href="https://www.instagram.com/deepslat33/" className="hover:underline hover:text-blue-200">@deepslat33</a> </p>
               <p className="text-white"> Twitter: <a href="https://x.com/Deepsl4t3" className="hover:underline hover:text-blue-200">@Deepsl4t3</a> </p>
               <p className="text-white"> Email: miguelm@miguelm.dev</p>
               <p className="text-green-400">miguel@admin: <span className="text-[#3d65a1]">~</span> <span className="text-white">$</span></p>
